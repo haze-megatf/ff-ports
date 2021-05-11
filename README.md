@@ -5,3 +5,5 @@ Models ported from FF for Quake 1 usage
 * Textures may need renaming depending on what engine you are using  
 * *Should* load in ezquake & FTE
 * Use at your own disgression  
+
+![Knife](/screenshots/ezquake-knife-bloody.jpg?raw=true&s=100 "Knife")
